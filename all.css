@@ -12545,7 +12545,8 @@ a.text-darkbold:hover, a.text-darkbold:focus {
   font-weight: 500;
 }
 
-.sold-out {
+.sold-out img {
+  position: relative;
   background-image: url(/img/photo-1559264730-1533a6ec0433-1.png);
 }
 
