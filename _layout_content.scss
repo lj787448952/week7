@@ -1,0 +1,43 @@
+.banner {
+    background-image: url(img/photo-1588159343745-445ae0b16383.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 870px;
+    background-size: cover;
+}
+
+.banner h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.banner p {
+    font-size: 1rem;
+    font-weight: 500;
+}
+.sold-out{
+    background-image: url(/img/photo-1559264730-1533a6ec0433-1.png);
+}
+.sold-out-text {
+    font-size: 1.5rem;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.page{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.page-items{
+    text-decoration: underline;
+}
+.border-primaryDark{
+    border: 2px solid;
+}
+.text-decoration{
+    border-bottom: 2px solid  #916000;
+}
+.userForm h6{
+    border-bottom: 1px solid #8D8D8D;
+}
