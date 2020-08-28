@@ -15,9 +15,16 @@
     font-size: 1rem;
     font-weight: 500;
 }
-.sold-out img{
+.pic{
     position: relative;
-    background-image: url(img/photo-1559264730-1533a6ec0433-1.png);
+}
+.sold-out{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.3);
 }
 .sold-out-text {
     font-size: 1.5rem;
